@@ -6,5 +6,3 @@ CommandManager for unity.
 * 简易用户界面 命令列表 显示开关/选择/输入/提交
 * 简易用户界面 Trace 日志 显示开关
 * 命令提交事件机制 CommandManager->onSubmit
-
-作者:583280516@qq.com
