@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Commands xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Command name="add_level" desc="添加角色等级" defaultArg="1" />
+  </Items>
+</Commands>
